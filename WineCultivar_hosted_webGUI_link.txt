@@ -1,0 +1,6 @@
+Name: Chidi-Uba Esther
+Matric Number: 250000065
+Machine Learning Algorithm Used: Logistic Regression
+Model persistence method used: Joblib
+Live URL of the hosted application: https://wine-cultivar-prediction-model-1.onrender.com
+GitHub repository link: https://github.com/ubachidiesther8-create/WineCultivar_Project_estherchidi-uba_250000065.git
